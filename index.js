@@ -14,3 +14,5 @@ const Han = Object.create(person)
 Han.name = 'Ilgiz';
 
 const str = new String('I am Groot');
+
+//ничего сложного в прототипах нет, все предельно понятно
